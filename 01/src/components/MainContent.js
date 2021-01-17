@@ -3,7 +3,7 @@ import React from 'react'
 function MainContent(){
     return (
         <main>
-            <p> This is paragraph ...  </p>
+            this is main section
         </main>
     )
 }

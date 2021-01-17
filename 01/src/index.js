@@ -58,10 +58,19 @@
 
 
 
-// 05 
+// // 05 
+// import React from 'react'
+// import ReactDOM from 'react-dom'
+// import App from './App'
 
+// ReactDOM.render( <App/> , document.getElementById('root'))
+
+
+
+// 06
 import React from 'react'
 import ReactDOM from 'react-dom'
+
 import App from './App'
 
-ReactDOM.render( <App/> , document.getElementById('root'))
+ReactDOM.render( <App/> , document.getElementById('root') )
